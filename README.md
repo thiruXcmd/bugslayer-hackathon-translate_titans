@@ -108,8 +108,17 @@ Before you begin, ensure you have the following installed:
   ```sh
   python backend.py
   ```
+### Step 6: Install Dependencies
 
-### Step 6: Start the Frontend
+Navigate to the project folder and run the following commands to install the required dependencies:
+
+```bash
+cd ./translate_Titans_project/translator
+npm install
+npm i
+```
+
+### Step 7: Start the Frontend
 - Navigate to the translator folder:
   ```sh
   cd ./translate_Titans_project/translator
@@ -119,7 +128,7 @@ Before you begin, ensure you have the following installed:
   npm run dev
   ```
 
-### Step 7: Access the Application
+### Step 8: Access the Application
 1. Copy the address: [eg: `localhost:5173/`]
 2. Paste it into your browser and hit **Enter**.
 
